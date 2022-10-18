@@ -4,4 +4,4 @@ install.packages("readxl")
 
 # Install GCDkit (and dependencies)
 install.packages(c("curl","R2HTML","rgdal","RODBC","sp","tkrplot","XML"))
-install.packages("./install/GCDkit_6.1.tar.gz")
+install.packages("http://www.gcdkit.org/sw/GCDkit_6.1.tar.gz",repos=NULL)
