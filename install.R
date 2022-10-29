@@ -5,7 +5,7 @@ install.packages("readxl")
 # Install GCDkit (and dependencies)
 install.packages(c("curl","R2HTML","rgdal","RODBC","sp","XML"))
 
-Sys.setenv(DISPLAY="0.0")
+Sys.setenv("DISPLAY"="0.0")
 
 install.packages("tkrplot")
 
