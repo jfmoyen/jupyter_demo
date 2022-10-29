@@ -1,2 +1,4 @@
 unixodbc-dev
+tcl8.6
+tk8.6
 r-cran-tkrplot
